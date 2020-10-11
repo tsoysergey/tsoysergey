@@ -1,4 +1,4 @@
-### Hi there, I'm Sergey - aka tsoysergey][website] 👋
+### Hi there, I'm Sergey - You can call me CJ 👋
 
 ## I'm a YogER, DevelopER, and TeachER!
 - 🔭 I’m currently working on a [VS Code Course][website]!
