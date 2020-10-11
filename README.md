@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka tsoysergey][website] 👋
+### Hi there, I'm Sergey - aka tsoysergey][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a YogER, DevelopER, and TeachER!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
