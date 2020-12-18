@@ -1,11 +1,11 @@
 #### Hi there, I'm Sergey - You can call me CJ 👋
 
 ## I'm a YogER🤸 , DevelopER💻
-- 🔭 I’m currently working on a [Mobile App][website]!
-- 🌾 I’m currently learning everything 🧟
-- 👯 I’m looking to collaborate with other web developers
-- 🥅 2020 Goals: Master BackEnd
-- ⚡ Fun fact: I love to meditate and play piano
+⚆ 🔭 I’m currently working on a [Mobile App][website]!
+⚆ 🌾 I’m currently learning everything 🧟
+⚆ 👯 I’m looking to collaborate with other web developers
+⚆ 🥅 2020 Goals: Master BackEnd
+⚆ 🤿 Hope to try diving one day
 
 ### Reach me:
 
