@@ -1,6 +1,6 @@
 #### Hi there, I'm Sergey - You can call me CJ 👋
 
-## I'm a YogER, DevelopER, and TeachER!
+## I'm a YogER, DevelopER, and just ordinary person!
 - 🔭 I’m currently working on a [Mobile App][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
